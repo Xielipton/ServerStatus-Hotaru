@@ -8,13 +8,6 @@ import socket
 import time
 import json
 import psutil
-from collections import deque
-
-SERVER = "140.83.87.33"
-PORT = 35601
-USER = "mac"
-PASSWORD = "woshishei"
-INTERVAL = 1  # 更新间隔，单位：秒
 
 
 def check_interface(net_name):
