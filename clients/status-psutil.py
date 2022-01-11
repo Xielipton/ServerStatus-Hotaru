@@ -10,10 +10,10 @@ import json
 import psutil
 from collections import deque
 
-SERVER = "127.0.0.1"
+SERVER = "140.83.87.33"
 PORT = 35601
-USER = "USER"
-PASSWORD = "USER_PASSWORD"
+USER = "mac"
+PASSWORD = "woshishei"
 INTERVAL = 1  # 更新间隔，单位：秒
 
 
